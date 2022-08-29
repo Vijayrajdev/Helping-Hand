@@ -5,7 +5,7 @@ import Navbar from "./components/Navbar";
 
 function App() {
   return (
-    <div className="App relative bg-black md:min-h-[110vh] min-h-screen overflow-hidden">
+    <div className="App relative bg-black md:min-h-[100vh] min-h-[75vh] overflow-clip">
       <div className="hidden md:flex absolute opacity-30">
         <img src="mainD.jpg" className="" alt="" />
       </div>
