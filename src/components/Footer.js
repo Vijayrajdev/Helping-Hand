@@ -3,7 +3,7 @@ import React from "react";
 const Footer = () => {
   return (
     <div>
-      <footer className="p-4 mt-32 md:mt-48 rounded-lg shadow flex flex-col md:flex-row items-center gap-2 md:flex md:items-center md:justify-between md:p-6 bg-transparent">
+      <footer className="p-4 rounded-lg shadow flex flex-col md:flex-row items-center gap-2 md:flex md:items-center md:justify-between md:p-6 bg-transparent">
         <span className="text-sm text-white sm:text-center ">
           © 2022{" "}
           <a href="https://flowbite.com/" className="hover:underline">
