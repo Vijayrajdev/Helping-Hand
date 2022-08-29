@@ -12,7 +12,7 @@ const Main = () => {
             To <span className="text-orange-500">Celebrate</span> his Birthday
           </h1>
         </div>
-        <a target="blank" href="https://rzp.io/l/Zll2WPB4">
+        <a target="blank" href="https://rzp.io/l/kPjdeSDd">
           <button className="px-6 py-2 border bg-orange-400 border-black hover:bg-transparent hover:text-white hover:border-white">
             Donate
           </button>
