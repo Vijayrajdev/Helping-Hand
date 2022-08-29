@@ -2,9 +2,9 @@ import React from "react";
 
 const Main = () => {
   return (
-    <div className="flex justify-center min-h-[80vh]">
-      <div className="flex flex-col items-center text-center gap-8 pt-24">
-        <div className="flex flex-col md:gap-4">
+    <div className="flex justify-center md:min-h-[75vh] min-h-[80vh]">
+      <div className="flex flex-col items-center text-center gap-8 pt-48 md:pt-20">
+        <div className="flex flex-col md:gap-4 gap-4">
           <h1 className="text-3xl md:text-5xl font-bold text-white">
             Please help him
           </h1>
